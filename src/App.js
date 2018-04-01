@@ -21,11 +21,7 @@ const App = () => (
       <div className="container">
         <h1>About U'Marc</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut nibh risus. Aenean
-          mattis interdum lorem vitae eleifend. Duis id pharetra libero, ut sodales nisl. Praesent
-          interdum, ligula nec imperdiet bibendum, nulla massa euismod odio, in semper ligula mauris
-          ac velit. Donec iaculis scelerisque euismod. Maecenas ex ipsum, venenatis ac mauris quis,
-          sodales semper lacus. Fusce vitae tincidunt ipsum.
+          U'Marc is an innovative disposable archwire marker designed to minimize cross contamination and provide comfort to your patients in a cost effective manner.
         </p>
       </div>
     </div>
