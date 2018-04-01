@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: $base-font-family;
+  font-size: 62.5%;
+}
+
+body {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+}
+
+.container {
+  display: block;
+  margin: 0 auto;
+  max-width: $container-width;
+  width: 100%;
+}
+
+h1 {
+  font-family: $base-font-family;
+  font-size: 40px;
+  font-weight: 300;
+  padding-bottom: $standard-padding;
+}
+
+h2 {
+  font-family: $base-font-family;
+  font-size: $large-font-size;
+  padding-bottom: $standard-padding/3;
+  font-weight: 100;
+}
+
+ul {
+  font-family: $base-font-family;
+  margin: 0;
+}
+
+li {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+}
+
+a {
+  font-family: $base-font-family;
+  color: black;
+  outline: none !important;
+}
+
+p {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $standard-padding*1.2;
+  margin: 0;
+}
+
+button {
+  font-family: $base-font-family;
+  color: $white;
+  cursor: pointer;
+  background-color: $primary-color;
+  margin-top: $standard-padding;
+  padding: $standard-padding/1.5 $standard-padding;
+  outline: none !important;
+  border: none;
+  &:hover {
+    background-color: $primary-color-light;
+  }
+  &:focus {
+    background-color: $primary-color-dark;
+  }
+}

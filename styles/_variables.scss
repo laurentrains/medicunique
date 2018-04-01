@@ -1,0 +1,32 @@
+// colors
+$primary-color: #192126;
+$primary-color-light: #1f282d;
+$primary-color-dark: #0c0f11;
+$white: #ffffff;
+$offwhite: #fafbfc;
+$black: #000000;
+
+$background-1: $white;
+$background-2: $offwhite;
+
+// Padding
+$standard-padding: 30px;
+$area-padding: $standard-padding*2 $standard-padding;
+
+//Area Width
+$container-width: 1200px;
+
+// Font
+$base-font-family: "Nimbus";
+$base-font-size: 20px;
+$large-font-size: 40px;
+
+// button
+$button-bg: $primary-color;
+$button-color: $white;
+
+// breakpoints
+$extra-small: 480px;
+$small: 768px;
+$medium: 992px;
+$large: 1200px;
