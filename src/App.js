@@ -35,9 +35,7 @@ const App = () => (
           <div className="col-12 col-md-6">
             <h2>White U'Marc</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut nibh risus.
-              Aenean mattis interdum lorem vitae eleifend. Duis id pharetra libero, ut sodales nisl.
-              Praesent interdum, ligua nec imperdiet bibendum, nulla{' '}
+              White Color to easily see arch wire.{' '}
             </p>
             <Scroll type="id" offset={200} element="distributors">
               <button>Find Distributors</button>
