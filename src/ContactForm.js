@@ -16,6 +16,8 @@ export default class ContactForm extends React.Component {
       captchaResponse: '',
     };
 
+    this.emailToAddress = 'info@medicunique.com';
+
     autobind(this);
   }
 
@@ -90,12 +92,12 @@ export default class ContactForm extends React.Component {
       }),
       body: JSON.stringify({
         captchaResponse: this.state.captchaResponse,
-        toEmailAddresses: ['test@hovalabs.com'],
+        toEmailAddresses: [this.emailToAddress],
         bodyData: this.state.message,
         bodyCharset: 'UTF-8',
         subjectdata: `UMarc Contact: ${this.state.name}`,
         subjectCharset: 'UTF-8',
-        sourceEmail: 'test@hovalabs.com',
+        sourceEmail: this.emailToAddress,
         replyToAddresses: [this.state.email],
       }),
     })

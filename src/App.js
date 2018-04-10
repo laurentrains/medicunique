@@ -1,6 +1,6 @@
 import React from 'react';
-import ContactForm from './ContactForm';
 import Scroll from 'react-scroll-to-element';
+import ContactForm from './ContactForm';
 
 const App = () => (
   <div>
