@@ -74,12 +74,11 @@ const App = () => (
       </div>
 
       <div className="container question-area">
-        <p className="question">Lorem ipsum dolor sit amet, consectetur?</p>
+        <p className="question">Q: Why use U'Marc arch-wire markers?</p>
         <p>
-          adipiscing elit. Phasellus ut nibh risus. Aenean mattis interdum lorem vitae eleifend.
-          Duis id pharetra libero, ut sodales nisl. Praesent interdum, ligula nec imperdiet
-          bibendum, nulla massa euismod odio, in semper ligula mauris ac velit. Donec iaculis
-          scelerisque euismod. Maecenas ex ipsum, venenatis ac{' '}
+          Q: Traditionally orthodontistists have used colored pencils or crayons to mark the arch-wires for making adjustments.
+          These methods can lead to risk of contamination between patients and are not possible to sterilize using an autoclave or via chemical methods.
+          The U'Marc single use disposible markers eliminate the risk of contamination in a cost effective sanitary manner.{' '}
         </p>
       </div>
     </div>
