@@ -52,9 +52,8 @@ const App = () => (
           <div className="col-12 col-md-6">
             <h2>Orange U'Marc</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut nibh risus.
-              Aenean mattis interdum lorem vitae eleifend. Duis id pharetra libero, ut sodales nisl.
-              Praesent interdum, ligua nec imperdiet bibendum, nulla{' '}
+              U’Marc disposable arch-wire markers are available in outrageous orange.
+            The markers come in boxes of 100 sticks. {' '}
             </p>
             <Scroll type="id" offset={200} element="distributors">
               <button>Find Distributors</button>
