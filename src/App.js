@@ -68,12 +68,8 @@ const App = () => (
         <h1>FAQ</h1>
       </div>
       <div className="container question-area">
-        <p className="question">Lorem ipsum dolor sit amet, consectetur?</p>
-        <p>
-          adipiscing elit. Phasellus ut nibh risus. Aenean mattis interdum lorem vitae eleifend.
-          Duis id pharetra libero, ut sodales nisl. Praesent interdum, ligula nec imperdiet
-          bibendum, nulla massa euismod odio, in semper ligula mauris ac velit. Donec iaculis
-          scelerisque euismod. Maecenas ex ipsum, venenatis ac{' '}
+        <p className="question">Q: Where can I buy U’Marc arch-wire markers?</p>
+        <p>A: U’Marc arch-wire markers are available through most orthodontic supply wholesalers. {' '}
         </p>
       </div>
 
