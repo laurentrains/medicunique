@@ -35,7 +35,8 @@ const App = () => (
           <div className="col-12 col-md-6">
             <h2>White U'Marc</h2>
             <p>
-              White Color to easily see arch wire.{' '}
+              U’Marc disposable arch-wire markers are available in brilliant white.
+            The markers come in boxes of 100 sticks. {' '}
             </p>
             <Scroll type="id" offset={200} element="distributors">
               <button>Find Distributors</button>
