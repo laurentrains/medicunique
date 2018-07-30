@@ -92,7 +92,7 @@ const App = () => (
             <img src="/ao.png" />
           </div>
           <div className="col-6 col-md-4">
-            <img src="/dentsply.png" />
+            <a href="https://www.dentsplysirona.com/en-us.html" target="_blank"><img src="/dentsply.png" /></a>
           </div>
           <div className="col-6 col-md-4">
             <img src="/dynaflex.png" />
@@ -117,7 +117,7 @@ const App = () => (
     <div id="footer">
       <p>© 2017 U'Marc</p>
     </div>
-  </div>
+  </div >
 
 );
 

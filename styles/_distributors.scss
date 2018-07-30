@@ -2,8 +2,10 @@
   background-color: $background-2;
   padding: $area-padding;
   img {
+    width: 65%;
+    padding: $standard-padding/2;
     @media screen and (max-width: $small) {
-      padding-bottom: $standard-padding;
+      width: 100%;
     }
   }
 }
