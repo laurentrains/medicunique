@@ -89,24 +89,36 @@ const App = () => (
         <h1>Distributors</h1>
         <div className="row">
           <div className="col-6 col-md-4">
-            <img src="/umark_logo.svg" />
+            <img src="/ao.png" />
           </div>
           <div className="col-6 col-md-4">
-            <img src="/umark_logo.svg" />
+            <img src="/dentsply.png" />
           </div>
           <div className="col-6 col-md-4">
-            <img src="/umark_logo.svg" />
+            <img src="/dynaflex.png" />
+          </div>
+          <div className="col-6 col-md-4">
+            <img src="/forestadent.png" />
+          </div>
+          <div className="col-6 col-md-4">
+            <img src="/gh.png" />
+          </div>
+          <div className="col-6 col-md-4">
+            <img src="/plaksmacker.png" />
+          </div>
+          <div className="col-6 col-md-4">
+            <img src="/dynaflex.png" />
           </div>
         </div>
       </div>
     </div>
-
     <ContactForm />
 
     <div id="footer">
       <p>© 2017 U'Marc</p>
     </div>
   </div>
+
 );
 
 export default App;
