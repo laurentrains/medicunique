@@ -52,7 +52,7 @@ const App = () => (
           <div className="col-12 col-md-6">
             <h2>Orange U'Marc</h2>
             <p>
-              U’Marc disposable arch-wire markers are available in outrageous orange.
+              U’Marc disposable arch-wire markers are available in bright orange.
             The markers come in boxes of 100 sticks. {' '}
             </p>
             <Scroll type="id" offset={200} element="distributors">
@@ -94,7 +94,7 @@ const App = () => (
             <a href="https://www.dentsplysirona.com/en-us.html" target="_blank"><img src="/dentsply.png" /></a>
           </div>
           <div className="col-6 col-md-4">
-            <img src="/dynaflex.png" />
+            <a href="https://store.dynaflex.com/index.php/u-marctm-markers.html" target="blank"><img src="/dynaflex.png" /></a>
           </div>
           <div className="col-6 col-md-4">
             <img src="/forestadent.png" />
